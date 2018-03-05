@@ -1,3 +1,3 @@
 # Java-Binary-Search-Tree
 
-Classic Binary Search Tree with methods such as insert, delete, find, etc.
+Classic Binary Search Tree with methods insertNode, deleteNode, search, and traverse.
